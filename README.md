@@ -1,4 +1,4 @@
-# &lt;EK/&gt; EDU KODER
+# EDU KODER
 
 ### Materiały dydaktyczne dla uczniów technikum i nauczycieli przedmiotów zawodowych
 
