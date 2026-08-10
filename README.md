@@ -1,4 +1,4 @@
-# 💻 Programowanie EDU
+# 💻 Koder EDU
 
 ### Materiały dydaktyczne dla uczniów technikum i nauczycieli przedmiotów zawodowych
 
