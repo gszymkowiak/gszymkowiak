@@ -1,4 +1,4 @@
-# 💻 Programowanie – materiały edukacyjne
+# 💻 TP EduLab – materiały edukacyjne
 
 ### Materiały dydaktyczne dla uczniów technikum i nauczycieli przedmiotów zawodowych
 
