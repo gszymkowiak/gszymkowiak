@@ -89,11 +89,11 @@ Materiały związane z kwalifikacją **INF.04 – Projektowanie, programowanie i
 | Obszar                               | Zawartość                                                                          | Repozytorium                                                                                      |
 | ------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | **Algorytmy**                     | algorytmy, sortowanie, wyszukiwanie, rekurencja, struktury danych                  | [algorytmy](https://github.com/gszymkowiak/tp-algorytmy)                                       |
-| **Projektowanie oprogramowania** | projektowanie aplikacji, algorytmy, dokumentacja i organizacja procesu wytwarzania | [projektowanie-oprogramowania](https://github.com/gszymkowiak/tp-projektowanie-oprogramowania) |
-| **Aplikacje webowe**              | HTML, Bootstrap, JavaScript, TypeScript, React, Node.js, REST API, MongoDB         | [aplikacje-webowe](https://github.com/gszymkowiak/tp-aplikacje-webowe)                         |
-| **Testowanie**                    | testy jednostkowe, poprawność programu, jakość kodu                                | [testy-jednostkowe](https://github.com/gszymkowiak/tp-testy-jednostkowe)                       |
+| **Projektowanie oprogramowania** | projektowanie aplikacji, algorytmy, dokumentacja i organizacja procesu wytwarzania | [projektowanie oprogramowania](https://github.com/gszymkowiak/tp-projektowanie-oprogramowania) |
+| **Aplikacje webowe**              | HTML, Bootstrap, JavaScript, TypeScript, React, Node.js, REST API, MongoDB         | [aplikacje webowe](https://github.com/gszymkowiak/tp-aplikacje-webowe)                         |
+| **Testowanie**                    | testy jednostkowe, poprawność programu, jakość kodu                                | [testy jednostkowe](https://github.com/gszymkowiak/tp-testy-jednostkowe)                       |
 | **Projekty**                      | praktyczne projekty i ćwiczenia programistyczne                                    | [projekty](https://github.com/gszymkowiak/tp-projekty)                                         |
-| **INF.04**                        | materiały i zadania przygotowujące do egzaminu zawodowego                          | [egzamin-INF.04](https://github.com/gszymkowiak/tp-egzamin-INF.04)                             |
+| **INF.04**                        | materiały i zadania przygotowujące do egzaminu zawodowego                          | [egzamin INF.04](https://github.com/gszymkowiak/tp-egzamin-INF.04)                             |
 
 ---
 
