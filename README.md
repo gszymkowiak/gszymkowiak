@@ -1,4 +1,4 @@
-# 💻 Programowanie EDU – materiały edukacyjne
+# 💻 Programowanie EDU
 
 ### Materiały dydaktyczne dla uczniów technikum i nauczycieli przedmiotów zawodowych
 
